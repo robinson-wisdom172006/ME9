@@ -92,4 +92,4 @@ See `report.md` for the 100–150 word summary covering dataset source, usage,
 challenges, and improvements.
 
 ## 9. Team Members
-Check `CONTRIBUTORS.md` to see the list of people in GROUP ME9 that contributed to this project
+Check [CONTRIBUTORS.md](./CONTRIBUTORS.md) to see the list of people in GROUP ME9 that contributed to this project
