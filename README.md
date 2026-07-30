@@ -87,12 +87,9 @@ The app opens at `http://localhost:8501`.
 - **Loss:** Binary cross-entropy
 - **Optimizer:** Adam
 
-## 8. Team Members
-| Name | Registration Number | GitHub Username |
-|------|---------------------|------------------|
-| _Fill in_ | _Fill in_ | _Fill in_ |
-| _Fill in_ | _Fill in_ | _Fill in_ |
-
-## 9. Report
+## 8. Report
 See `report.md` for the 100–150 word summary covering dataset source, usage,
 challenges, and improvements.
+
+## 9. Team Members
+Check Contributors.md
