@@ -6,5 +6,5 @@
 |OKON, ELISHA UDEME|[Elisha-create](https://github.com/Elisha-create)|22/EG/ME/1734|
 |SIMEON ABASI-ENO LOUIS|[G-Servant1](https://GitHub.com/G-Servant1)|22/EG/ME/1764|
 |MATTHEW BRIGHT|[Smiles-shi](https://github.com/Smiles-shi)|22/EG/ME/1774|
-| | |  |
+|JAMES JAMES NKEREUWEM|phantxm360 |22/EG/ME/1794  |
 | | |  |
