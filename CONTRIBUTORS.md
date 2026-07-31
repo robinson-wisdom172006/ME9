@@ -8,3 +8,4 @@
 |MATTHEW BRIGHT|[Smiles-shi](https://github.com/Smiles-shi)|22/EG/ME/1774|
 |JAMES JAMES NKEREUWEM|[phantxm360](https://github.com/phantxm360) |22/EG/ME/1794  |
 |OREOLUWA HAVILAH ADEOYE|[oreoluwaadeoye2020-dot](https://github.com/oreoluwaadeoye2020-dot)|22/EG/ME/1704  |
+|UMOH, ETIMBUK SUNDAY|[EtimbukUmoh91grothendieckprime](https://github.com/EtimbukUmoh91grothendieckprime)| 22/EG/ME/1744|
