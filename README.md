@@ -88,7 +88,7 @@ The app opens at `http://localhost:8501`.
 - **Optimizer:** Adam
 
 ## 8. Report
-See [report.md](./Report.pdf) for the 100–150 word summary covering dataset source, usage,
+See [Report.pdf](./Report.pdf) for the 100–150 word summary covering dataset source, usage,
 challenges, and improvements.
 
 ## 9. Team Members
